@@ -8,7 +8,7 @@ Welcome to the SecureArcade USB Scripts repository! This repository contains the
 
 ## Getting Started
 
-- Download the scripts you would want from the scripts folder
+- Download the script you would want from the scripts folder
 - Open the app and plug in your usb
 - Select the Script you want to use
 - Then enable the autorun for it
